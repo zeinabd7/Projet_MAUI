@@ -1,0 +1,1 @@
+D:\DotNet\exercise2\Notes\Notes.csproj;x64
